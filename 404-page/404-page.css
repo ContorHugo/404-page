@@ -1,0 +1,15 @@
+.error {
+    background-color: red;
+    text-decoration-color: seashell;
+    text-align: center;
+
+}
+.backlink {
+    background: crimson;
+    transition-property: link;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+}
+.backlink:hover {
+    background: coral;
+}
